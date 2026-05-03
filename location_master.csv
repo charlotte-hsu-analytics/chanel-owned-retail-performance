@@ -1,0 +1,11 @@
+boutique,market,region,location_type,primary_division,base_monthly_target,supports_fashion,supports_fnb,supports_wfj,open_status
+Madison Avenue,New York,Americas,Fashion Flagship,Fashion,9800000,Yes,No,Yes,Open
+Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,8600000,Yes,No,Yes,Open
+Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,7100000,Yes,No,Yes,Open
+SoHo,New York,Americas,Fashion Boutique,Fashion,6600000,Yes,No,Yes,Open
+South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,6700000,Yes,Yes,Yes,Open
+San Francisco,West Coast,Americas,Fashion Boutique,Fashion,6000000,Yes,No,Yes,Open
+Chicago,Midwest,Americas,Fashion Boutique,Fashion,5800000,Yes,No,Yes,Open
+Dallas,South,Americas,Fashion Boutique,Fashion,5600000,Yes,No,Yes,Open
+Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fragrance & Beauty,4200000,No,Yes,No,Open
+Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fragrance & Beauty,3600000,No,Yes,No,Open

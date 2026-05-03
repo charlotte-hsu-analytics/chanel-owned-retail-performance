@@ -1,0 +1,1201 @@
+month,boutique,market,region,location_type,division,category,monthly_sales_target,traffic_target,conversion_target,clienteling_target
+2025-01,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Handbags,2558582.61,2497,0.256,320
+2025-01,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Small Leather Goods,777082.44,2125,0.349,272
+2025-01,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Costume Jewelry,629882.61,1713,0.184,549
+2025-01,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Other Accessories,396261.38,1222,0.195,523
+2025-01,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Eyewear,229488.7,3589,0.259,557
+2025-01,Madison Avenue,New York,Americas,Fashion Flagship,Fragrance & Beauty,Fragrance & Beauty,626392.52,2255,0.221,521
+2025-01,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Ready-to-Wear,1684550.93,1085,0.335,500
+2025-01,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Footwear,631020.08,4437,0.211,299
+2025-01,Madison Avenue,New York,Americas,Fashion Flagship,Watches & Fine Jewelry,Watches,335215.11,1232,0.332,368
+2025-01,Madison Avenue,New York,Americas,Fashion Flagship,Watches & Fine Jewelry,Fine Jewelry,639849.11,4376,0.235,314
+2025-02,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Handbags,2701774.72,3091,0.272,171
+2025-02,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Small Leather Goods,710450.21,4615,0.348,443
+2025-02,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Costume Jewelry,540197.0,1420,0.193,342
+2025-02,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Other Accessories,464911.63,1260,0.286,510
+2025-02,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Eyewear,259398.01,3537,0.288,561
+2025-02,Madison Avenue,New York,Americas,Fashion Flagship,Fragrance & Beauty,Fragrance & Beauty,775228.43,2416,0.324,138
+2025-02,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Ready-to-Wear,1975035.68,2014,0.199,476
+2025-02,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Footwear,571940.06,1165,0.298,570
+2025-02,Madison Avenue,New York,Americas,Fashion Flagship,Watches & Fine Jewelry,Watches,337716.63,2144,0.282,352
+2025-02,Madison Avenue,New York,Americas,Fashion Flagship,Watches & Fine Jewelry,Fine Jewelry,747581.01,3503,0.258,231
+2025-03,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Handbags,2862038.53,4316,0.226,414
+2025-03,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Small Leather Goods,829333.03,4750,0.298,367
+2025-03,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Costume Jewelry,676763.54,4459,0.217,596
+2025-03,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Other Accessories,434910.89,4208,0.205,565
+2025-03,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Eyewear,244453.6,1767,0.25,472
+2025-03,Madison Avenue,New York,Americas,Fashion Flagship,Fragrance & Beauty,Fragrance & Beauty,781406.15,2790,0.256,333
+2025-03,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Ready-to-Wear,1818152.72,1345,0.243,528
+2025-03,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Footwear,616315.86,3004,0.319,281
+2025-03,Madison Avenue,New York,Americas,Fashion Flagship,Watches & Fine Jewelry,Watches,418236.8,4413,0.298,391
+2025-03,Madison Avenue,New York,Americas,Fashion Flagship,Watches & Fine Jewelry,Fine Jewelry,855396.73,1292,0.239,334
+2025-04,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Handbags,3066146.23,1840,0.295,590
+2025-04,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Small Leather Goods,773906.01,2987,0.21,261
+2025-04,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Costume Jewelry,760850.09,4923,0.275,309
+2025-04,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Other Accessories,481930.02,4370,0.299,357
+2025-04,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Eyewear,308526.91,4498,0.243,622
+2025-04,Madison Avenue,New York,Americas,Fashion Flagship,Fragrance & Beauty,Fragrance & Beauty,837149.02,4069,0.256,594
+2025-04,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Ready-to-Wear,2075169.77,5187,0.242,541
+2025-04,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Footwear,623962.11,4304,0.272,592
+2025-04,Madison Avenue,New York,Americas,Fashion Flagship,Watches & Fine Jewelry,Watches,349040.84,4554,0.254,426
+2025-04,Madison Avenue,New York,Americas,Fashion Flagship,Watches & Fine Jewelry,Fine Jewelry,768972.63,2159,0.327,466
+2025-05,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Handbags,3020644.81,2337,0.336,255
+2025-05,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Small Leather Goods,846676.93,2409,0.23,636
+2025-05,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Costume Jewelry,709441.92,4731,0.209,442
+2025-05,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Other Accessories,548965.41,2972,0.204,313
+2025-05,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Eyewear,276651.49,4506,0.298,461
+2025-05,Madison Avenue,New York,Americas,Fashion Flagship,Fragrance & Beauty,Fragrance & Beauty,836576.12,3132,0.327,166
+2025-05,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Ready-to-Wear,1745564.58,5198,0.299,565
+2025-05,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Footwear,710443.65,1287,0.259,218
+2025-05,Madison Avenue,New York,Americas,Fashion Flagship,Watches & Fine Jewelry,Watches,381930.97,1937,0.32,209
+2025-05,Madison Avenue,New York,Americas,Fashion Flagship,Watches & Fine Jewelry,Fine Jewelry,678863.47,5037,0.286,355
+2025-06,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Handbags,2847942.29,4183,0.303,418
+2025-06,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Small Leather Goods,737635.09,3010,0.255,588
+2025-06,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Costume Jewelry,645789.85,3131,0.25,207
+2025-06,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Other Accessories,458894.6,2319,0.273,197
+2025-06,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Eyewear,300375.37,4108,0.251,225
+2025-06,Madison Avenue,New York,Americas,Fashion Flagship,Fragrance & Beauty,Fragrance & Beauty,904649.72,4357,0.182,611
+2025-06,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Ready-to-Wear,2069617.69,1556,0.248,159
+2025-06,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Footwear,571092.59,2215,0.292,153
+2025-06,Madison Avenue,New York,Americas,Fashion Flagship,Watches & Fine Jewelry,Watches,409805.22,3131,0.246,529
+2025-06,Madison Avenue,New York,Americas,Fashion Flagship,Watches & Fine Jewelry,Fine Jewelry,817329.41,4698,0.34,472
+2025-07,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Handbags,2998094.46,1138,0.197,502
+2025-07,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Small Leather Goods,743462.91,3620,0.324,224
+2025-07,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Costume Jewelry,578229.35,4863,0.2,247
+2025-07,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Other Accessories,493748.46,3767,0.273,475
+2025-07,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Eyewear,290280.34,4662,0.304,173
+2025-07,Madison Avenue,New York,Americas,Fashion Flagship,Fragrance & Beauty,Fragrance & Beauty,812287.03,1161,0.221,312
+2025-07,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Ready-to-Wear,1812598.42,1947,0.244,486
+2025-07,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Footwear,712186.0,3218,0.189,558
+2025-07,Madison Avenue,New York,Americas,Fashion Flagship,Watches & Fine Jewelry,Watches,359333.83,4375,0.262,485
+2025-07,Madison Avenue,New York,Americas,Fashion Flagship,Watches & Fine Jewelry,Fine Jewelry,803200.43,4666,0.264,537
+2025-08,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Handbags,2473387.9,3411,0.197,127
+2025-08,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Small Leather Goods,668392.78,2145,0.32,222
+2025-08,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Costume Jewelry,564515.85,2122,0.243,532
+2025-08,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Other Accessories,354813.29,2069,0.308,179
+2025-08,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Eyewear,237919.63,1568,0.334,154
+2025-08,Madison Avenue,New York,Americas,Fashion Flagship,Fragrance & Beauty,Fragrance & Beauty,597648.62,1601,0.26,169
+2025-08,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Ready-to-Wear,1716739.61,2979,0.279,277
+2025-08,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Footwear,595513.97,3837,0.328,468
+2025-08,Madison Avenue,New York,Americas,Fashion Flagship,Watches & Fine Jewelry,Watches,356382.24,1651,0.331,428
+2025-08,Madison Avenue,New York,Americas,Fashion Flagship,Watches & Fine Jewelry,Fine Jewelry,662895.66,3863,0.269,313
+2025-09,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Handbags,2848162.25,4428,0.228,391
+2025-09,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Small Leather Goods,813763.94,2462,0.212,250
+2025-09,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Costume Jewelry,677806.36,1825,0.193,199
+2025-09,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Other Accessories,501189.98,4198,0.208,204
+2025-09,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Eyewear,271838.72,3301,0.251,484
+2025-09,Madison Avenue,New York,Americas,Fashion Flagship,Fragrance & Beauty,Fragrance & Beauty,832554.85,1651,0.318,391
+2025-09,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Ready-to-Wear,1865401.32,4277,0.323,640
+2025-09,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Footwear,732901.39,4218,0.274,665
+2025-09,Madison Avenue,New York,Americas,Fashion Flagship,Watches & Fine Jewelry,Watches,419016.55,1346,0.222,238
+2025-09,Madison Avenue,New York,Americas,Fashion Flagship,Watches & Fine Jewelry,Fine Jewelry,779963.63,1730,0.294,458
+2025-10,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Handbags,3233576.74,5034,0.325,223
+2025-10,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Small Leather Goods,856082.67,4415,0.185,391
+2025-10,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Costume Jewelry,790443.03,2781,0.28,478
+2025-10,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Other Accessories,541137.58,3538,0.239,346
+2025-10,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Eyewear,345806.98,3660,0.341,590
+2025-10,Madison Avenue,New York,Americas,Fashion Flagship,Fragrance & Beauty,Fragrance & Beauty,732427.11,4435,0.224,683
+2025-10,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Ready-to-Wear,2178084.52,1366,0.221,572
+2025-10,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Footwear,718243.0,4504,0.206,575
+2025-10,Madison Avenue,New York,Americas,Fashion Flagship,Watches & Fine Jewelry,Watches,399875.77,3395,0.261,266
+2025-10,Madison Avenue,New York,Americas,Fashion Flagship,Watches & Fine Jewelry,Fine Jewelry,977875.23,4754,0.187,169
+2025-11,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Handbags,3213312.74,4748,0.258,603
+2025-11,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Small Leather Goods,863243.12,4222,0.194,608
+2025-11,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Costume Jewelry,776654.02,1873,0.227,495
+2025-11,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Other Accessories,606480.39,1531,0.262,760
+2025-11,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Eyewear,367736.98,5681,0.307,198
+2025-11,Madison Avenue,New York,Americas,Fashion Flagship,Fragrance & Beauty,Fragrance & Beauty,1022809.9,3789,0.221,758
+2025-11,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Ready-to-Wear,2563722.87,2759,0.235,463
+2025-11,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Footwear,841959.33,3991,0.295,263
+2025-11,Madison Avenue,New York,Americas,Fashion Flagship,Watches & Fine Jewelry,Watches,432586.82,4239,0.271,223
+2025-11,Madison Avenue,New York,Americas,Fashion Flagship,Watches & Fine Jewelry,Fine Jewelry,1115980.86,4709,0.242,525
+2025-12,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Handbags,3702145.0,6600,0.22,424
+2025-12,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Small Leather Goods,1111367.39,5496,0.207,681
+2025-12,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Costume Jewelry,987677.13,4573,0.294,837
+2025-12,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Other Accessories,720927.35,6101,0.228,637
+2025-12,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Eyewear,387097.71,4612,0.284,665
+2025-12,Madison Avenue,New York,Americas,Fashion Flagship,Fragrance & Beauty,Fragrance & Beauty,1265487.26,6790,0.262,908
+2025-12,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Ready-to-Wear,2398098.61,4079,0.348,230
+2025-12,Madison Avenue,New York,Americas,Fashion Flagship,Fashion,Footwear,822551.66,3609,0.296,599
+2025-12,Madison Avenue,New York,Americas,Fashion Flagship,Watches & Fine Jewelry,Watches,553448.27,3291,0.338,663
+2025-12,Madison Avenue,New York,Americas,Fashion Flagship,Watches & Fine Jewelry,Fine Jewelry,1154650.96,4413,0.304,406
+2025-01,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Handbags,2044842.02,4261,0.323,419
+2025-01,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Small Leather Goods,631203.5,3903,0.318,464
+2025-01,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Costume Jewelry,549911.8,1584,0.329,209
+2025-01,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Other Accessories,363240.19,4319,0.231,151
+2025-01,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Eyewear,232408.14,2984,0.333,527
+2025-01,Beverly Hills,West Coast,Americas,Fashion Flagship,Fragrance & Beauty,Fragrance & Beauty,648664.1,2524,0.237,288
+2025-01,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Ready-to-Wear,1548345.14,3771,0.329,385
+2025-01,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Footwear,570696.55,2041,0.3,492
+2025-01,Beverly Hills,West Coast,Americas,Fashion Flagship,Watches & Fine Jewelry,Watches,312499.56,2515,0.308,234
+2025-01,Beverly Hills,West Coast,Americas,Fashion Flagship,Watches & Fine Jewelry,Fine Jewelry,667774.89,3600,0.311,492
+2025-02,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Handbags,2579445.4,2984,0.321,362
+2025-02,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Small Leather Goods,633117.85,1719,0.252,445
+2025-02,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Costume Jewelry,549624.93,1824,0.281,576
+2025-02,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Other Accessories,388452.5,3721,0.184,248
+2025-02,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Eyewear,236848.53,3870,0.198,401
+2025-02,Beverly Hills,West Coast,Americas,Fashion Flagship,Fragrance & Beauty,Fragrance & Beauty,712665.92,3654,0.22,445
+2025-02,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Ready-to-Wear,1862391.51,3967,0.215,415
+2025-02,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Footwear,536017.87,2989,0.337,486
+2025-02,Beverly Hills,West Coast,Americas,Fashion Flagship,Watches & Fine Jewelry,Watches,341058.47,1867,0.335,297
+2025-02,Beverly Hills,West Coast,Americas,Fashion Flagship,Watches & Fine Jewelry,Fine Jewelry,606284.22,1718,0.186,279
+2025-03,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Handbags,2111243.1,2214,0.258,285
+2025-03,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Small Leather Goods,618256.28,2872,0.233,601
+2025-03,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Costume Jewelry,585236.74,1845,0.239,294
+2025-03,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Other Accessories,497669.26,2099,0.262,356
+2025-03,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Eyewear,194986.55,2995,0.237,195
+2025-03,Beverly Hills,West Coast,Americas,Fashion Flagship,Fragrance & Beauty,Fragrance & Beauty,652560.69,4464,0.316,195
+2025-03,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Ready-to-Wear,1475969.5,4435,0.249,443
+2025-03,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Footwear,545349.81,3672,0.331,231
+2025-03,Beverly Hills,West Coast,Americas,Fashion Flagship,Watches & Fine Jewelry,Watches,326796.39,3209,0.348,419
+2025-03,Beverly Hills,West Coast,Americas,Fashion Flagship,Watches & Fine Jewelry,Fine Jewelry,672878.64,3567,0.249,441
+2025-04,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Handbags,2235357.58,2609,0.242,268
+2025-04,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Small Leather Goods,643070.55,2133,0.312,542
+2025-04,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Costume Jewelry,517552.91,1327,0.211,519
+2025-04,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Other Accessories,428935.04,4630,0.217,427
+2025-04,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Eyewear,231406.45,4288,0.249,635
+2025-04,Beverly Hills,West Coast,Americas,Fashion Flagship,Fragrance & Beauty,Fragrance & Beauty,718374.58,5145,0.204,176
+2025-04,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Ready-to-Wear,1942985.4,2908,0.322,618
+2025-04,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Footwear,626575.87,2799,0.24,459
+2025-04,Beverly Hills,West Coast,Americas,Fashion Flagship,Watches & Fine Jewelry,Watches,334422.68,1348,0.322,160
+2025-04,Beverly Hills,West Coast,Americas,Fashion Flagship,Watches & Fine Jewelry,Fine Jewelry,719979.45,4054,0.284,459
+2025-05,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Handbags,2592654.33,2587,0.226,399
+2025-05,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Small Leather Goods,743083.69,1610,0.206,360
+2025-05,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Costume Jewelry,587381.9,4078,0.24,286
+2025-05,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Other Accessories,512879.17,1369,0.193,264
+2025-05,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Eyewear,257228.21,4236,0.198,257
+2025-05,Beverly Hills,West Coast,Americas,Fashion Flagship,Fragrance & Beauty,Fragrance & Beauty,633844.58,3088,0.289,236
+2025-05,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Ready-to-Wear,1788551.47,1966,0.347,633
+2025-05,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Footwear,544335.7,5204,0.2,160
+2025-05,Beverly Hills,West Coast,Americas,Fashion Flagship,Watches & Fine Jewelry,Watches,358113.99,2802,0.252,644
+2025-05,Beverly Hills,West Coast,Americas,Fashion Flagship,Watches & Fine Jewelry,Fine Jewelry,772648.3,4903,0.29,167
+2025-06,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Handbags,2289974.99,1382,0.249,188
+2025-06,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Small Leather Goods,758337.09,2572,0.292,546
+2025-06,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Costume Jewelry,643791.56,1510,0.259,183
+2025-06,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Other Accessories,450141.32,5010,0.192,451
+2025-06,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Eyewear,283246.25,1896,0.279,385
+2025-06,Beverly Hills,West Coast,Americas,Fashion Flagship,Fragrance & Beauty,Fragrance & Beauty,551246.98,1588,0.304,326
+2025-06,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Ready-to-Wear,1678670.4,3181,0.28,581
+2025-06,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Footwear,551388.08,4615,0.201,336
+2025-06,Beverly Hills,West Coast,Americas,Fashion Flagship,Watches & Fine Jewelry,Watches,339439.3,4424,0.306,409
+2025-06,Beverly Hills,West Coast,Americas,Fashion Flagship,Watches & Fine Jewelry,Fine Jewelry,651459.11,4764,0.2,256
+2025-07,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Handbags,2308999.08,4742,0.316,190
+2025-07,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Small Leather Goods,627401.22,3255,0.333,353
+2025-07,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Costume Jewelry,613347.41,3036,0.186,203
+2025-07,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Other Accessories,377034.2,2055,0.261,323
+2025-07,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Eyewear,253846.66,4260,0.305,352
+2025-07,Beverly Hills,West Coast,Americas,Fashion Flagship,Fragrance & Beauty,Fragrance & Beauty,556254.38,2655,0.271,174
+2025-07,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Ready-to-Wear,1493834.76,2041,0.325,177
+2025-07,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Footwear,567838.93,4052,0.295,466
+2025-07,Beverly Hills,West Coast,Americas,Fashion Flagship,Watches & Fine Jewelry,Watches,345679.52,1330,0.316,297
+2025-07,Beverly Hills,West Coast,Americas,Fashion Flagship,Watches & Fine Jewelry,Fine Jewelry,613719.01,3575,0.299,299
+2025-08,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Handbags,2169387.89,1439,0.328,531
+2025-08,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Small Leather Goods,556998.58,2274,0.207,414
+2025-08,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Costume Jewelry,555534.87,2253,0.285,214
+2025-08,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Other Accessories,335251.57,3372,0.288,404
+2025-08,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Eyewear,207816.28,2160,0.288,304
+2025-08,Beverly Hills,West Coast,Americas,Fashion Flagship,Fragrance & Beauty,Fragrance & Beauty,553492.73,3413,0.297,320
+2025-08,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Ready-to-Wear,1495238.68,3600,0.188,373
+2025-08,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Footwear,491998.35,1760,0.309,127
+2025-08,Beverly Hills,West Coast,Americas,Fashion Flagship,Watches & Fine Jewelry,Watches,307729.08,1406,0.252,447
+2025-08,Beverly Hills,West Coast,Americas,Fashion Flagship,Watches & Fine Jewelry,Fine Jewelry,508875.25,3316,0.298,427
+2025-09,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Handbags,2834224.48,5226,0.342,404
+2025-09,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Small Leather Goods,615671.33,4654,0.216,492
+2025-09,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Costume Jewelry,585105.53,3159,0.327,374
+2025-09,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Other Accessories,407586.99,5074,0.309,562
+2025-09,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Eyewear,245183.11,2896,0.337,562
+2025-09,Beverly Hills,West Coast,Americas,Fashion Flagship,Fragrance & Beauty,Fragrance & Beauty,713059.32,1806,0.214,622
+2025-09,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Ready-to-Wear,1893578.73,1381,0.28,232
+2025-09,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Footwear,609537.4,1896,0.303,168
+2025-09,Beverly Hills,West Coast,Americas,Fashion Flagship,Watches & Fine Jewelry,Watches,291159.58,1366,0.334,436
+2025-09,Beverly Hills,West Coast,Americas,Fashion Flagship,Watches & Fine Jewelry,Fine Jewelry,666516.51,2424,0.216,325
+2025-10,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Handbags,2787832.29,4452,0.33,619
+2025-10,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Small Leather Goods,633185.2,4529,0.214,298
+2025-10,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Costume Jewelry,631941.22,3437,0.281,244
+2025-10,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Other Accessories,507988.14,5105,0.339,524
+2025-10,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Eyewear,304124.47,3579,0.292,392
+2025-10,Beverly Hills,West Coast,Americas,Fashion Flagship,Fragrance & Beauty,Fragrance & Beauty,724394.72,1769,0.262,303
+2025-10,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Ready-to-Wear,2154755.48,2776,0.285,325
+2025-10,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Footwear,636565.66,2083,0.187,493
+2025-10,Beverly Hills,West Coast,Americas,Fashion Flagship,Watches & Fine Jewelry,Watches,430696.19,3230,0.249,653
+2025-10,Beverly Hills,West Coast,Americas,Fashion Flagship,Watches & Fine Jewelry,Fine Jewelry,764067.18,4519,0.343,650
+2025-11,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Handbags,3543942.46,4610,0.266,242
+2025-11,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Small Leather Goods,854431.67,3336,0.283,590
+2025-11,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Costume Jewelry,707478.16,2383,0.281,481
+2025-11,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Other Accessories,470997.61,6109,0.202,191
+2025-11,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Eyewear,311566.79,5574,0.22,589
+2025-11,Beverly Hills,West Coast,Americas,Fashion Flagship,Fragrance & Beauty,Fragrance & Beauty,664112.26,3324,0.328,317
+2025-11,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Ready-to-Wear,1974854.28,5313,0.281,579
+2025-11,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Footwear,656584.87,1781,0.235,699
+2025-11,Beverly Hills,West Coast,Americas,Fashion Flagship,Watches & Fine Jewelry,Watches,409766.75,5082,0.257,663
+2025-11,Beverly Hills,West Coast,Americas,Fashion Flagship,Watches & Fine Jewelry,Fine Jewelry,829259.49,4991,0.321,495
+2025-12,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Handbags,4305389.53,6216,0.305,900
+2025-12,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Small Leather Goods,858740.38,4054,0.317,433
+2025-12,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Costume Jewelry,866733.08,5085,0.19,627
+2025-12,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Other Accessories,612761.22,7139,0.195,440
+2025-12,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Eyewear,349104.05,3419,0.279,472
+2025-12,Beverly Hills,West Coast,Americas,Fashion Flagship,Fragrance & Beauty,Fragrance & Beauty,1012328.68,6672,0.27,426
+2025-12,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Ready-to-Wear,2259030.88,6564,0.22,914
+2025-12,Beverly Hills,West Coast,Americas,Fashion Flagship,Fashion,Footwear,810339.52,5052,0.346,817
+2025-12,Beverly Hills,West Coast,Americas,Fashion Flagship,Watches & Fine Jewelry,Watches,487272.96,5667,0.311,886
+2025-12,Beverly Hills,West Coast,Americas,Fashion Flagship,Watches & Fine Jewelry,Fine Jewelry,1001002.65,5748,0.282,619
+2025-01,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Handbags,2401522.66,3952,0.207,300
+2025-01,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Small Leather Goods,607536.94,1485,0.199,217
+2025-01,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Costume Jewelry,557228.89,2496,0.254,555
+2025-01,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Other Accessories,396517.06,2258,0.23,531
+2025-01,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Eyewear,183520.26,1862,0.245,212
+2025-01,Miami Design District,Southeast,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,328313.09,2823,0.28,532
+2025-01,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1189521.83,3686,0.265,205
+2025-01,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Footwear,502204.93,2091,0.199,248
+2025-01,Miami Design District,Southeast,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,155950.89,4022,0.261,168
+2025-01,Miami Design District,Southeast,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,230575.72,1684,0.245,416
+2025-02,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Handbags,2139768.24,3829,0.269,578
+2025-02,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Small Leather Goods,531376.38,3184,0.279,229
+2025-02,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Costume Jewelry,573137.71,4154,0.269,370
+2025-02,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Other Accessories,334729.31,3740,0.211,536
+2025-02,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Eyewear,194161.06,2347,0.243,289
+2025-02,Miami Design District,Southeast,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,381095.18,3720,0.288,383
+2025-02,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1248969.79,3262,0.241,287
+2025-02,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Footwear,458183.41,3982,0.223,195
+2025-02,Miami Design District,Southeast,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,170011.08,1210,0.31,546
+2025-02,Miami Design District,Southeast,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,208831.95,3540,0.22,231
+2025-03,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Handbags,2401523.74,4253,0.288,581
+2025-03,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Small Leather Goods,685064.94,2904,0.281,283
+2025-03,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Costume Jewelry,545189.1,4260,0.303,583
+2025-03,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Other Accessories,418862.9,2116,0.225,362
+2025-03,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Eyewear,213695.43,3525,0.285,401
+2025-03,Miami Design District,Southeast,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,384126.63,3260,0.226,335
+2025-03,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1439688.94,3482,0.258,471
+2025-03,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Footwear,575597.48,4353,0.279,567
+2025-03,Miami Design District,Southeast,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,193940.2,1350,0.25,294
+2025-03,Miami Design District,Southeast,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,268780.11,4057,0.261,171
+2025-04,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Handbags,2310891.47,4904,0.294,233
+2025-04,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Small Leather Goods,678877.6,2966,0.327,421
+2025-04,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Costume Jewelry,511737.88,3608,0.195,624
+2025-04,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Other Accessories,385973.38,2034,0.247,556
+2025-04,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Eyewear,220651.15,1443,0.215,388
+2025-04,Miami Design District,Southeast,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,490514.68,2652,0.245,365
+2025-04,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1621550.54,4797,0.194,554
+2025-04,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Footwear,547547.4,3185,0.203,459
+2025-04,Miami Design District,Southeast,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,190455.72,3730,0.248,174
+2025-04,Miami Design District,Southeast,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,267023.71,4164,0.184,174
+2025-05,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Handbags,2472736.57,1329,0.233,497
+2025-05,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Small Leather Goods,638486.64,4027,0.206,667
+2025-05,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Costume Jewelry,574242.48,3699,0.19,428
+2025-05,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Other Accessories,461453.27,5331,0.204,492
+2025-05,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Eyewear,188833.68,3615,0.298,413
+2025-05,Miami Design District,Southeast,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,492176.79,2681,0.232,470
+2025-05,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1375629.12,5109,0.202,272
+2025-05,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Footwear,665285.35,4355,0.321,389
+2025-05,Miami Design District,Southeast,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,151030.69,2478,0.251,379
+2025-05,Miami Design District,Southeast,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,283996.22,3204,0.271,220
+2025-06,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Handbags,2594613.19,3220,0.343,313
+2025-06,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Small Leather Goods,665216.57,3642,0.257,457
+2025-06,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Costume Jewelry,536786.55,4498,0.244,585
+2025-06,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Other Accessories,383798.88,3801,0.332,254
+2025-06,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Eyewear,217966.31,1441,0.187,593
+2025-06,Miami Design District,Southeast,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,413057.87,1958,0.292,592
+2025-06,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1248529.67,4444,0.206,565
+2025-06,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Footwear,612356.18,2231,0.187,236
+2025-06,Miami Design District,Southeast,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,172312.43,2874,0.345,360
+2025-06,Miami Design District,Southeast,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,229184.31,4762,0.25,410
+2025-07,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Handbags,2399673.61,1992,0.346,575
+2025-07,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Small Leather Goods,585154.33,3211,0.343,251
+2025-07,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Costume Jewelry,557678.59,2548,0.199,392
+2025-07,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Other Accessories,449404.79,1618,0.187,396
+2025-07,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Eyewear,217398.99,3168,0.246,247
+2025-07,Miami Design District,Southeast,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,393352.1,3166,0.319,251
+2025-07,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1421907.68,3938,0.223,513
+2025-07,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Footwear,549830.63,2413,0.339,407
+2025-07,Miami Design District,Southeast,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,156179.69,1327,0.303,406
+2025-07,Miami Design District,Southeast,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,233339.88,3313,0.272,317
+2025-08,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Handbags,2083998.22,2053,0.309,213
+2025-08,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Small Leather Goods,488085.0,3981,0.222,336
+2025-08,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Costume Jewelry,452520.79,4212,0.215,130
+2025-08,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Other Accessories,343802.71,2422,0.212,470
+2025-08,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Eyewear,184253.25,1240,0.186,293
+2025-08,Miami Design District,Southeast,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,351641.73,4250,0.205,179
+2025-08,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1088277.54,1169,0.203,310
+2025-08,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Footwear,478381.0,2994,0.185,474
+2025-08,Miami Design District,Southeast,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,159133.29,3085,0.267,124
+2025-08,Miami Design District,Southeast,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,190145.74,1867,0.3,430
+2025-09,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Handbags,2728643.15,1321,0.235,491
+2025-09,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Small Leather Goods,730847.16,5223,0.268,338
+2025-09,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Costume Jewelry,628941.23,2526,0.22,491
+2025-09,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Other Accessories,464478.45,3830,0.288,311
+2025-09,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Eyewear,233969.36,3079,0.348,286
+2025-09,Miami Design District,Southeast,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,490192.18,2935,0.347,428
+2025-09,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1532586.3,5376,0.338,210
+2025-09,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Footwear,645684.78,3460,0.254,358
+2025-09,Miami Design District,Southeast,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,192365.41,4757,0.188,466
+2025-09,Miami Design District,Southeast,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,200989.85,2525,0.218,538
+2025-10,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Handbags,2739376.38,4590,0.228,280
+2025-10,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Small Leather Goods,709732.47,1498,0.227,460
+2025-10,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Costume Jewelry,582799.37,1544,0.226,525
+2025-10,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Other Accessories,527385.11,4227,0.285,563
+2025-10,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Eyewear,236205.22,4274,0.22,339
+2025-10,Miami Design District,Southeast,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,430113.29,5418,0.33,609
+2025-10,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1548310.72,3917,0.347,239
+2025-10,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Footwear,578855.7,4654,0.238,572
+2025-10,Miami Design District,Southeast,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,196499.5,4893,0.302,585
+2025-10,Miami Design District,Southeast,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,266455.79,4688,0.273,331
+2025-11,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Handbags,2980966.51,2641,0.218,301
+2025-11,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Small Leather Goods,700602.9,3785,0.258,385
+2025-11,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Costume Jewelry,804388.48,3070,0.317,350
+2025-11,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Other Accessories,431029.45,2795,0.309,442
+2025-11,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Eyewear,282017.97,2416,0.221,778
+2025-11,Miami Design District,Southeast,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,585520.46,3639,0.259,738
+2025-11,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Ready-to-Wear,2012212.55,4238,0.198,713
+2025-11,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Footwear,570775.21,2413,0.215,272
+2025-11,Miami Design District,Southeast,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,201353.64,3074,0.278,285
+2025-11,Miami Design District,Southeast,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,328627.89,5764,0.315,502
+2025-12,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Handbags,2998525.18,3143,0.211,355
+2025-12,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Small Leather Goods,920650.03,2573,0.255,856
+2025-12,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Costume Jewelry,828506.03,2653,0.288,580
+2025-12,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Other Accessories,602935.12,7253,0.275,712
+2025-12,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Eyewear,289780.96,2619,0.301,819
+2025-12,Miami Design District,Southeast,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,593527.39,7098,0.264,397
+2025-12,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Ready-to-Wear,2027656.22,3466,0.197,877
+2025-12,Miami Design District,Southeast,Americas,Fashion Boutique,Fashion,Footwear,787080.96,5046,0.257,657
+2025-12,Miami Design District,Southeast,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,229020.08,5491,0.26,596
+2025-12,Miami Design District,Southeast,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,367365.77,2388,0.297,433
+2025-01,SoHo,New York,Americas,Fashion Boutique,Fashion,Handbags,2054312.02,2673,0.232,299
+2025-01,SoHo,New York,Americas,Fashion Boutique,Fashion,Small Leather Goods,583688.19,1400,0.314,424
+2025-01,SoHo,New York,Americas,Fashion Boutique,Fashion,Costume Jewelry,475797.14,1623,0.294,489
+2025-01,SoHo,New York,Americas,Fashion Boutique,Fashion,Other Accessories,337904.89,1496,0.273,161
+2025-01,SoHo,New York,Americas,Fashion Boutique,Fashion,Eyewear,166165.65,2402,0.252,378
+2025-01,SoHo,New York,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,337171.82,3107,0.183,418
+2025-01,SoHo,New York,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1243818.15,2515,0.321,373
+2025-01,SoHo,New York,Americas,Fashion Boutique,Fashion,Footwear,478292.51,3138,0.276,402
+2025-01,SoHo,New York,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,141142.34,2606,0.218,425
+2025-01,SoHo,New York,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,218734.28,3632,0.228,366
+2025-02,SoHo,New York,Americas,Fashion Boutique,Fashion,Handbags,2030918.19,2919,0.269,487
+2025-02,SoHo,New York,Americas,Fashion Boutique,Fashion,Small Leather Goods,544794.56,1734,0.342,141
+2025-02,SoHo,New York,Americas,Fashion Boutique,Fashion,Costume Jewelry,372433.92,3425,0.203,266
+2025-02,SoHo,New York,Americas,Fashion Boutique,Fashion,Other Accessories,304204.99,3131,0.341,168
+2025-02,SoHo,New York,Americas,Fashion Boutique,Fashion,Eyewear,201579.33,3408,0.22,202
+2025-02,SoHo,New York,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,310724.75,1253,0.226,446
+2025-02,SoHo,New York,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1192143.98,4442,0.18,189
+2025-02,SoHo,New York,Americas,Fashion Boutique,Fashion,Footwear,482598.2,4427,0.221,459
+2025-02,SoHo,New York,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,131792.95,2742,0.28,304
+2025-02,SoHo,New York,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,220541.25,1386,0.255,306
+2025-03,SoHo,New York,Americas,Fashion Boutique,Fashion,Handbags,2174063.5,2661,0.228,159
+2025-03,SoHo,New York,Americas,Fashion Boutique,Fashion,Small Leather Goods,555685.01,1532,0.295,617
+2025-03,SoHo,New York,Americas,Fashion Boutique,Fashion,Costume Jewelry,507744.2,4695,0.304,212
+2025-03,SoHo,New York,Americas,Fashion Boutique,Fashion,Other Accessories,388284.07,4389,0.302,600
+2025-03,SoHo,New York,Americas,Fashion Boutique,Fashion,Eyewear,203690.31,4081,0.321,312
+2025-03,SoHo,New York,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,429192.14,3730,0.293,608
+2025-03,SoHo,New York,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1176854.5,2214,0.333,461
+2025-03,SoHo,New York,Americas,Fashion Boutique,Fashion,Footwear,497762.0,1251,0.29,437
+2025-03,SoHo,New York,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,164000.27,1352,0.204,336
+2025-03,SoHo,New York,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,238669.41,4593,0.27,514
+2025-04,SoHo,New York,Americas,Fashion Boutique,Fashion,Handbags,2038678.27,3666,0.256,460
+2025-04,SoHo,New York,Americas,Fashion Boutique,Fashion,Small Leather Goods,584110.29,2436,0.317,276
+2025-04,SoHo,New York,Americas,Fashion Boutique,Fashion,Costume Jewelry,581463.5,2661,0.325,569
+2025-04,SoHo,New York,Americas,Fashion Boutique,Fashion,Other Accessories,409533.52,3221,0.314,337
+2025-04,SoHo,New York,Americas,Fashion Boutique,Fashion,Eyewear,189099.73,2264,0.253,509
+2025-04,SoHo,New York,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,352328.19,2603,0.297,316
+2025-04,SoHo,New York,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1186215.94,2032,0.239,297
+2025-04,SoHo,New York,Americas,Fashion Boutique,Fashion,Footwear,533466.33,2113,0.288,576
+2025-04,SoHo,New York,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,181812.05,1775,0.283,567
+2025-04,SoHo,New York,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,234850.41,4757,0.257,537
+2025-05,SoHo,New York,Americas,Fashion Boutique,Fashion,Handbags,2329380.81,1608,0.246,394
+2025-05,SoHo,New York,Americas,Fashion Boutique,Fashion,Small Leather Goods,533146.82,3843,0.322,191
+2025-05,SoHo,New York,Americas,Fashion Boutique,Fashion,Costume Jewelry,492559.67,4488,0.256,435
+2025-05,SoHo,New York,Americas,Fashion Boutique,Fashion,Other Accessories,357640.07,4569,0.261,562
+2025-05,SoHo,New York,Americas,Fashion Boutique,Fashion,Eyewear,170673.94,2680,0.323,552
+2025-05,SoHo,New York,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,373180.77,1543,0.321,487
+2025-05,SoHo,New York,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1265511.41,2578,0.35,562
+2025-05,SoHo,New York,Americas,Fashion Boutique,Fashion,Footwear,534908.53,3073,0.315,436
+2025-05,SoHo,New York,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,182179.13,2582,0.325,257
+2025-05,SoHo,New York,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,208911.65,4543,0.186,406
+2025-06,SoHo,New York,Americas,Fashion Boutique,Fashion,Handbags,2179056.29,1757,0.186,219
+2025-06,SoHo,New York,Americas,Fashion Boutique,Fashion,Small Leather Goods,635493.01,4575,0.196,457
+2025-06,SoHo,New York,Americas,Fashion Boutique,Fashion,Costume Jewelry,538782.75,4688,0.276,556
+2025-06,SoHo,New York,Americas,Fashion Boutique,Fashion,Other Accessories,369301.91,4008,0.242,614
+2025-06,SoHo,New York,Americas,Fashion Boutique,Fashion,Eyewear,216912.27,1564,0.261,478
+2025-06,SoHo,New York,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,443264.01,2039,0.191,443
+2025-06,SoHo,New York,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1413504.47,3567,0.231,613
+2025-06,SoHo,New York,Americas,Fashion Boutique,Fashion,Footwear,573599.92,4818,0.216,206
+2025-06,SoHo,New York,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,163366.79,1340,0.308,538
+2025-06,SoHo,New York,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,234498.04,1456,0.324,343
+2025-07,SoHo,New York,Americas,Fashion Boutique,Fashion,Handbags,1962124.09,4259,0.249,476
+2025-07,SoHo,New York,Americas,Fashion Boutique,Fashion,Small Leather Goods,579368.73,3022,0.192,197
+2025-07,SoHo,New York,Americas,Fashion Boutique,Fashion,Costume Jewelry,570983.81,1279,0.315,275
+2025-07,SoHo,New York,Americas,Fashion Boutique,Fashion,Other Accessories,337517.19,2961,0.22,417
+2025-07,SoHo,New York,Americas,Fashion Boutique,Fashion,Eyewear,204519.25,1721,0.249,165
+2025-07,SoHo,New York,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,374013.44,2719,0.346,159
+2025-07,SoHo,New York,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1360177.6,2353,0.201,456
+2025-07,SoHo,New York,Americas,Fashion Boutique,Fashion,Footwear,523238.16,2621,0.192,290
+2025-07,SoHo,New York,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,152787.61,4840,0.32,523
+2025-07,SoHo,New York,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,226238.53,2961,0.228,457
+2025-08,SoHo,New York,Americas,Fashion Boutique,Fashion,Handbags,1921958.79,2184,0.18,408
+2025-08,SoHo,New York,Americas,Fashion Boutique,Fashion,Small Leather Goods,427135.26,1653,0.259,441
+2025-08,SoHo,New York,Americas,Fashion Boutique,Fashion,Costume Jewelry,461538.76,3135,0.202,234
+2025-08,SoHo,New York,Americas,Fashion Boutique,Fashion,Other Accessories,316829.93,3164,0.334,373
+2025-08,SoHo,New York,Americas,Fashion Boutique,Fashion,Eyewear,173412.14,3847,0.2,508
+2025-08,SoHo,New York,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,322038.55,2632,0.324,482
+2025-08,SoHo,New York,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1165995.7,2319,0.226,400
+2025-08,SoHo,New York,Americas,Fashion Boutique,Fashion,Footwear,439794.38,3326,0.198,371
+2025-08,SoHo,New York,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,145940.89,4131,0.243,315
+2025-08,SoHo,New York,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,188487.4,1904,0.325,135
+2025-09,SoHo,New York,Americas,Fashion Boutique,Fashion,Handbags,2294870.4,4589,0.295,338
+2025-09,SoHo,New York,Americas,Fashion Boutique,Fashion,Small Leather Goods,618788.29,2122,0.214,530
+2025-09,SoHo,New York,Americas,Fashion Boutique,Fashion,Costume Jewelry,539324.11,3466,0.268,202
+2025-09,SoHo,New York,Americas,Fashion Boutique,Fashion,Other Accessories,425725.23,5293,0.183,530
+2025-09,SoHo,New York,Americas,Fashion Boutique,Fashion,Eyewear,204853.38,5303,0.281,181
+2025-09,SoHo,New York,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,436324.89,5359,0.233,320
+2025-09,SoHo,New York,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1331824.3,5118,0.346,453
+2025-09,SoHo,New York,Americas,Fashion Boutique,Fashion,Footwear,520552.82,2776,0.225,660
+2025-09,SoHo,New York,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,154489.66,3467,0.268,412
+2025-09,SoHo,New York,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,261094.56,2280,0.346,273
+2025-10,SoHo,New York,Americas,Fashion Boutique,Fashion,Handbags,2571058.75,5252,0.258,399
+2025-10,SoHo,New York,Americas,Fashion Boutique,Fashion,Small Leather Goods,713682.09,2693,0.262,250
+2025-10,SoHo,New York,Americas,Fashion Boutique,Fashion,Costume Jewelry,588819.41,2013,0.313,269
+2025-10,SoHo,New York,Americas,Fashion Boutique,Fashion,Other Accessories,436486.07,5578,0.193,420
+2025-10,SoHo,New York,Americas,Fashion Boutique,Fashion,Eyewear,229343.07,4725,0.313,495
+2025-10,SoHo,New York,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,444374.3,4521,0.295,704
+2025-10,SoHo,New York,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1596408.19,2073,0.191,429
+2025-10,SoHo,New York,Americas,Fashion Boutique,Fashion,Footwear,583695.43,3968,0.256,223
+2025-10,SoHo,New York,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,156974.87,2579,0.296,662
+2025-10,SoHo,New York,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,279554.98,4062,0.258,386
+2025-11,SoHo,New York,Americas,Fashion Boutique,Fashion,Handbags,2449880.34,4595,0.216,468
+2025-11,SoHo,New York,Americas,Fashion Boutique,Fashion,Small Leather Goods,676057.48,2515,0.221,267
+2025-11,SoHo,New York,Americas,Fashion Boutique,Fashion,Costume Jewelry,653690.59,3019,0.349,572
+2025-11,SoHo,New York,Americas,Fashion Boutique,Fashion,Other Accessories,484319.02,4295,0.281,561
+2025-11,SoHo,New York,Americas,Fashion Boutique,Fashion,Eyewear,212785.37,3045,0.343,480
+2025-11,SoHo,New York,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,523701.47,3451,0.289,229
+2025-11,SoHo,New York,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1745404.72,5264,0.182,272
+2025-11,SoHo,New York,Americas,Fashion Boutique,Fashion,Footwear,615860.92,3600,0.317,620
+2025-11,SoHo,New York,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,205055.55,3447,0.223,370
+2025-11,SoHo,New York,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,281374.74,5533,0.206,483
+2025-12,SoHo,New York,Americas,Fashion Boutique,Fashion,Handbags,2843840.49,6952,0.256,702
+2025-12,SoHo,New York,Americas,Fashion Boutique,Fashion,Small Leather Goods,853629.12,1867,0.246,468
+2025-12,SoHo,New York,Americas,Fashion Boutique,Fashion,Costume Jewelry,832456.11,4402,0.346,698
+2025-12,SoHo,New York,Americas,Fashion Boutique,Fashion,Other Accessories,535431.68,1851,0.219,485
+2025-12,SoHo,New York,Americas,Fashion Boutique,Fashion,Eyewear,285971.3,3047,0.253,319
+2025-12,SoHo,New York,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,651543.82,2696,0.253,675
+2025-12,SoHo,New York,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1827021.36,1821,0.265,376
+2025-12,SoHo,New York,Americas,Fashion Boutique,Fashion,Footwear,782088.33,3679,0.236,357
+2025-12,SoHo,New York,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,236027.81,5208,0.258,732
+2025-12,SoHo,New York,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,303582.05,4879,0.304,888
+2025-01,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Handbags,1808374.94,1300,0.338,440
+2025-01,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Small Leather Goods,484799.36,2528,0.214,221
+2025-01,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Costume Jewelry,354726.54,2409,0.33,432
+2025-01,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Other Accessories,310822.34,4060,0.284,157
+2025-01,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Eyewear,183425.85,2317,0.226,293
+2025-01,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,1378412.12,3439,0.205,370
+2025-01,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Ready-to-Wear,985035.51,3936,0.184,273
+2025-01,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Footwear,426534.51,3241,0.287,239
+2025-01,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Watches & Fine Jewelry,Watches,129675.68,2689,0.3,176
+2025-01,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,216376.27,3842,0.197,305
+2025-02,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Handbags,1719476.12,4377,0.185,286
+2025-02,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Small Leather Goods,498669.87,1314,0.293,354
+2025-02,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Costume Jewelry,374520.92,3087,0.273,437
+2025-02,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Other Accessories,341888.76,2490,0.246,540
+2025-02,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Eyewear,176645.71,4127,0.265,485
+2025-02,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,1288709.2,3227,0.253,541
+2025-02,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Ready-to-Wear,955067.22,2435,0.342,206
+2025-02,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Footwear,404336.86,3979,0.234,153
+2025-02,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Watches & Fine Jewelry,Watches,163532.83,1485,0.325,208
+2025-02,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,187987.2,4599,0.189,235
+2025-03,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Handbags,1766396.13,3983,0.237,197
+2025-03,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Small Leather Goods,525454.02,1199,0.254,161
+2025-03,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Costume Jewelry,346461.73,3653,0.245,420
+2025-03,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Other Accessories,357291.36,4487,0.313,600
+2025-03,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Eyewear,201002.08,3441,0.34,489
+2025-03,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,1264670.5,4555,0.279,558
+2025-03,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Ready-to-Wear,917458.36,4095,0.283,237
+2025-03,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Footwear,387298.14,1172,0.204,564
+2025-03,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Watches & Fine Jewelry,Watches,144257.48,2063,0.298,529
+2025-03,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,252108.87,1688,0.279,568
+2025-04,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Handbags,1974392.66,3013,0.286,563
+2025-04,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Small Leather Goods,547868.9,4128,0.246,156
+2025-04,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Costume Jewelry,391479.88,4508,0.285,565
+2025-04,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Other Accessories,348332.6,4778,0.194,558
+2025-04,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Eyewear,175184.12,5193,0.349,497
+2025-04,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,1415930.76,3417,0.299,642
+2025-04,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Ready-to-Wear,1033878.32,2143,0.335,352
+2025-04,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Footwear,436338.2,2537,0.282,165
+2025-04,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Watches & Fine Jewelry,Watches,172965.55,3193,0.267,525
+2025-04,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,238379.09,3756,0.279,494
+2025-05,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Handbags,1872173.9,3471,0.3,326
+2025-05,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Small Leather Goods,640082.23,2432,0.282,364
+2025-05,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Costume Jewelry,442533.68,4989,0.26,244
+2025-05,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Other Accessories,331437.84,4438,0.199,578
+2025-05,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Eyewear,220498.63,3984,0.321,238
+2025-05,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,1477980.08,3665,0.274,311
+2025-05,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Ready-to-Wear,966796.1,3397,0.328,397
+2025-05,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Footwear,504281.95,3321,0.243,476
+2025-05,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Watches & Fine Jewelry,Watches,177050.39,4385,0.321,193
+2025-05,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,248635.77,3829,0.259,579
+2025-06,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Handbags,2184646.06,3900,0.303,521
+2025-06,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Small Leather Goods,496276.78,2624,0.306,234
+2025-06,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Costume Jewelry,433382.27,1488,0.239,275
+2025-06,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Other Accessories,336472.23,4267,0.279,311
+2025-06,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Eyewear,240021.6,5182,0.307,301
+2025-06,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,1407401.85,4446,0.308,630
+2025-06,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Ready-to-Wear,1155425.6,2145,0.236,290
+2025-06,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Footwear,489059.28,1438,0.2,582
+2025-06,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Watches & Fine Jewelry,Watches,177652.68,3264,0.215,474
+2025-06,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,233656.65,2537,0.266,458
+2025-07,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Handbags,1951683.74,4378,0.275,250
+2025-07,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Small Leather Goods,533103.17,2158,0.271,441
+2025-07,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Costume Jewelry,395323.72,3451,0.262,548
+2025-07,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Other Accessories,321608.22,1530,0.262,270
+2025-07,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Eyewear,189603.15,2307,0.183,501
+2025-07,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,1354999.85,1815,0.273,186
+2025-07,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Ready-to-Wear,948045.6,3575,0.348,158
+2025-07,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Footwear,402844.75,3107,0.3,264
+2025-07,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Watches & Fine Jewelry,Watches,138922.43,4129,0.239,230
+2025-07,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,216745.22,4399,0.279,329
+2025-08,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Handbags,1710193.03,3759,0.309,413
+2025-08,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Small Leather Goods,461463.35,3945,0.246,197
+2025-08,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Costume Jewelry,333618.63,3258,0.283,349
+2025-08,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Other Accessories,279490.71,3899,0.272,173
+2025-08,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Eyewear,163601.67,3928,0.28,378
+2025-08,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,1298918.35,2319,0.328,235
+2025-08,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Ready-to-Wear,733622.09,2987,0.255,350
+2025-08,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Footwear,369832.53,1298,0.273,318
+2025-08,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Watches & Fine Jewelry,Watches,151852.63,2636,0.212,432
+2025-08,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,168734.81,3403,0.225,521
+2025-09,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Handbags,2053066.25,3367,0.195,531
+2025-09,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Small Leather Goods,533918.96,3970,0.186,581
+2025-09,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Costume Jewelry,371879.09,5206,0.235,215
+2025-09,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Other Accessories,353663.26,1339,0.32,427
+2025-09,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Eyewear,238619.11,2196,0.191,341
+2025-09,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,1850982.31,4252,0.184,352
+2025-09,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Ready-to-Wear,957343.53,5456,0.233,475
+2025-09,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Footwear,451803.78,4948,0.276,374
+2025-09,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Watches & Fine Jewelry,Watches,160271.42,1614,0.279,220
+2025-09,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,272739.75,5182,0.219,378
+2025-10,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Handbags,2011695.34,4908,0.216,220
+2025-10,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Small Leather Goods,518514.43,3279,0.317,678
+2025-10,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Costume Jewelry,442430.31,4548,0.34,468
+2025-10,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Other Accessories,358036.44,1947,0.299,701
+2025-10,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Eyewear,222783.13,3784,0.21,669
+2025-10,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,1699127.57,4364,0.322,320
+2025-10,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Ready-to-Wear,1120452.77,1904,0.343,308
+2025-10,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Footwear,431278.02,1333,0.206,486
+2025-10,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Watches & Fine Jewelry,Watches,190803.69,4535,0.24,328
+2025-10,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,251751.32,4656,0.194,304
+2025-11,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Handbags,2405245.06,2653,0.327,473
+2025-11,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Small Leather Goods,600924.78,2801,0.35,440
+2025-11,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Costume Jewelry,498027.04,5482,0.345,503
+2025-11,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Other Accessories,397123.6,6168,0.325,608
+2025-11,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Eyewear,220670.26,5330,0.192,625
+2025-11,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,1784465.27,5313,0.345,335
+2025-11,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Ready-to-Wear,1150472.44,2825,0.22,254
+2025-11,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Footwear,551640.27,1506,0.216,286
+2025-11,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Watches & Fine Jewelry,Watches,187951.12,1665,0.327,649
+2025-11,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,274901.6,5579,0.317,734
+2025-12,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Handbags,2986151.17,4491,0.227,844
+2025-12,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Small Leather Goods,692552.71,5654,0.232,656
+2025-12,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Costume Jewelry,525339.87,3283,0.278,738
+2025-12,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Other Accessories,456500.88,6110,0.331,421
+2025-12,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Eyewear,285797.88,7263,0.262,511
+2025-12,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,2027253.27,1770,0.249,834
+2025-12,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Ready-to-Wear,1345596.49,5856,0.342,536
+2025-12,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Fashion,Footwear,667673.27,4877,0.263,346
+2025-12,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Watches & Fine Jewelry,Watches,245344.89,6330,0.204,810
+2025-12,South Coast Plaza,West Coast,Americas,Fashion + Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,337532.83,3797,0.217,548
+2025-01,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Handbags,1767004.22,3074,0.277,293
+2025-01,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Small Leather Goods,448855.51,1362,0.315,298
+2025-01,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Costume Jewelry,392764.67,2480,0.222,488
+2025-01,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Other Accessories,333783.02,3297,0.308,516
+2025-01,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Eyewear,160053.11,2812,0.196,182
+2025-01,San Francisco,West Coast,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,320401.19,1835,0.263,315
+2025-01,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1140380.03,1066,0.311,325
+2025-01,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Footwear,415087.03,2505,0.238,504
+2025-01,San Francisco,West Coast,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,139922.94,3916,0.267,552
+2025-01,San Francisco,West Coast,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,189310.7,3428,0.323,132
+2025-02,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Handbags,1931358.72,3048,0.303,549
+2025-02,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Small Leather Goods,442317.19,3018,0.316,305
+2025-02,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Costume Jewelry,435425.81,3377,0.295,441
+2025-02,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Other Accessories,339704.55,1522,0.321,413
+2025-02,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Eyewear,158802.11,3978,0.343,190
+2025-02,San Francisco,West Coast,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,306978.73,2917,0.284,266
+2025-02,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1027392.43,4063,0.306,330
+2025-02,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Footwear,489371.07,2242,0.182,393
+2025-02,San Francisco,West Coast,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,112744.46,3149,0.238,458
+2025-02,San Francisco,West Coast,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,184407.15,2844,0.238,400
+2025-03,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Handbags,1962755.94,4572,0.208,495
+2025-03,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Small Leather Goods,531839.29,2374,0.181,256
+2025-03,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Costume Jewelry,350534.76,4445,0.278,453
+2025-03,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Other Accessories,327654.96,4633,0.25,298
+2025-03,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Eyewear,171223.25,1285,0.335,226
+2025-03,San Francisco,West Coast,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,328226.44,4963,0.238,597
+2025-03,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1111834.92,2584,0.305,604
+2025-03,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Footwear,473639.34,2095,0.2,516
+2025-03,San Francisco,West Coast,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,159806.15,4449,0.305,576
+2025-03,San Francisco,West Coast,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,186885.02,1335,0.333,375
+2025-04,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Handbags,2148481.34,1391,0.198,386
+2025-04,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Small Leather Goods,526756.2,1642,0.347,498
+2025-04,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Costume Jewelry,492382.73,4066,0.292,625
+2025-04,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Other Accessories,388485.34,3964,0.277,596
+2025-04,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Eyewear,157430.46,1814,0.345,618
+2025-04,San Francisco,West Coast,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,349738.84,3790,0.189,225
+2025-04,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1055531.9,1960,0.278,331
+2025-04,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Footwear,487565.83,1221,0.261,642
+2025-04,San Francisco,West Coast,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,144139.3,2876,0.194,486
+2025-04,San Francisco,West Coast,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,199396.01,1362,0.218,388
+2025-05,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Handbags,1919465.18,3771,0.232,321
+2025-05,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Small Leather Goods,549881.23,2250,0.249,357
+2025-05,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Costume Jewelry,500292.14,2689,0.276,167
+2025-05,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Other Accessories,357748.94,1827,0.34,660
+2025-05,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Eyewear,161519.42,3233,0.274,581
+2025-05,San Francisco,West Coast,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,351909.18,4195,0.271,587
+2025-05,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1200725.69,5260,0.275,367
+2025-05,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Footwear,446943.15,2015,0.234,432
+2025-05,San Francisco,West Coast,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,167084.42,4918,0.259,259
+2025-05,San Francisco,West Coast,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,240013.57,1912,0.187,537
+2025-06,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Handbags,2305425.28,1652,0.181,589
+2025-06,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Small Leather Goods,551837.98,4275,0.311,155
+2025-06,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Costume Jewelry,505139.58,2964,0.333,155
+2025-06,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Other Accessories,283267.23,2034,0.321,448
+2025-06,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Eyewear,201709.92,3701,0.255,342
+2025-06,San Francisco,West Coast,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,326050.08,1978,0.257,639
+2025-06,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1207049.71,3360,0.232,478
+2025-06,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Footwear,521769.21,4446,0.251,521
+2025-06,San Francisco,West Coast,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,123022.29,3615,0.255,223
+2025-06,San Francisco,West Coast,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,204313.3,3160,0.189,504
+2025-07,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Handbags,1970426.93,2631,0.227,253
+2025-07,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Small Leather Goods,483482.78,2587,0.326,315
+2025-07,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Costume Jewelry,432430.98,2431,0.233,364
+2025-07,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Other Accessories,341021.33,3655,0.191,526
+2025-07,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Eyewear,168193.35,4261,0.202,492
+2025-07,San Francisco,West Coast,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,321338.72,1143,0.218,577
+2025-07,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1103723.95,2876,0.195,414
+2025-07,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Footwear,379532.8,3034,0.328,498
+2025-07,San Francisco,West Coast,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,132257.61,1341,0.298,549
+2025-07,San Francisco,West Coast,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,201382.23,4003,0.273,404
+2025-08,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Handbags,1564889.32,3453,0.321,146
+2025-08,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Small Leather Goods,412155.71,3198,0.222,428
+2025-08,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Costume Jewelry,410080.66,4111,0.199,153
+2025-08,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Other Accessories,309606.31,3024,0.204,358
+2025-08,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Eyewear,143166.17,4057,0.194,387
+2025-08,San Francisco,West Coast,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,278766.54,2487,0.256,200
+2025-08,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1031643.21,2100,0.347,358
+2025-08,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Footwear,400645.39,1089,0.285,509
+2025-08,San Francisco,West Coast,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,134262.93,1710,0.197,390
+2025-08,San Francisco,West Coast,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,179678.0,2139,0.282,335
+2025-09,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Handbags,2295319.82,4419,0.31,561
+2025-09,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Small Leather Goods,488960.59,4884,0.259,469
+2025-09,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Costume Jewelry,473120.52,2713,0.291,474
+2025-09,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Other Accessories,410444.1,4822,0.25,233
+2025-09,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Eyewear,157023.22,3241,0.317,341
+2025-09,San Francisco,West Coast,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,380294.53,4912,0.264,561
+2025-09,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1037592.98,4783,0.317,262
+2025-09,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Footwear,569406.83,4297,0.323,383
+2025-09,San Francisco,West Coast,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,157506.3,1607,0.206,633
+2025-09,San Francisco,West Coast,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,202901.02,2707,0.283,257
+2025-10,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Handbags,2456234.65,1846,0.309,603
+2025-10,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Small Leather Goods,606003.07,4812,0.202,418
+2025-10,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Costume Jewelry,577210.96,3325,0.318,605
+2025-10,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Other Accessories,418452.21,1728,0.29,445
+2025-10,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Eyewear,192019.53,3780,0.272,630
+2025-10,San Francisco,West Coast,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,371991.12,3007,0.273,469
+2025-10,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1262949.28,1987,0.21,708
+2025-10,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Footwear,525363.74,3631,0.329,272
+2025-10,San Francisco,West Coast,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,163807.06,1460,0.248,618
+2025-10,San Francisco,West Coast,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,194108.81,2568,0.203,308
+2025-11,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Handbags,2729015.02,1799,0.308,498
+2025-11,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Small Leather Goods,665012.99,3292,0.255,714
+2025-11,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Costume Jewelry,619814.36,3946,0.274,603
+2025-11,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Other Accessories,437306.0,2736,0.291,474
+2025-11,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Eyewear,260358.48,4496,0.22,369
+2025-11,San Francisco,West Coast,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,452558.65,5061,0.223,462
+2025-11,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1484923.57,6268,0.318,722
+2025-11,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Footwear,552838.34,6212,0.234,641
+2025-11,San Francisco,West Coast,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,193203.87,3969,0.257,195
+2025-11,San Francisco,West Coast,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,272968.34,2374,0.345,213
+2025-12,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Handbags,2864072.52,5978,0.257,799
+2025-12,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Small Leather Goods,722505.46,5119,0.246,278
+2025-12,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Costume Jewelry,637385.91,4918,0.34,606
+2025-12,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Other Accessories,419472.1,2171,0.261,766
+2025-12,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Eyewear,235217.08,4218,0.247,805
+2025-12,San Francisco,West Coast,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,541068.89,2415,0.19,213
+2025-12,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1687460.94,2776,0.193,613
+2025-12,San Francisco,West Coast,Americas,Fashion Boutique,Fashion,Footwear,625548.66,3378,0.23,234
+2025-12,San Francisco,West Coast,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,231096.76,6847,0.34,884
+2025-12,San Francisco,West Coast,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,261394.65,5380,0.194,499
+2025-01,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Handbags,1594998.29,3194,0.329,207
+2025-01,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Small Leather Goods,423231.44,1071,0.268,214
+2025-01,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Costume Jewelry,422517.53,4130,0.347,487
+2025-01,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Other Accessories,258922.81,1206,0.189,359
+2025-01,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Eyewear,153963.53,1426,0.217,498
+2025-01,Chicago,Midwest,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,295808.51,3930,0.24,212
+2025-01,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Ready-to-Wear,998832.16,3300,0.282,179
+2025-01,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Footwear,426689.31,1212,0.286,364
+2025-01,Chicago,Midwest,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,115588.21,3805,0.269,421
+2025-01,Chicago,Midwest,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,147534.04,1080,0.246,136
+2025-02,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Handbags,1921077.63,1236,0.266,210
+2025-02,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Small Leather Goods,446433.97,3858,0.276,580
+2025-02,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Costume Jewelry,395965.88,2711,0.272,570
+2025-02,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Other Accessories,326337.51,2187,0.323,530
+2025-02,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Eyewear,165535.22,1457,0.241,288
+2025-02,Chicago,Midwest,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,341169.4,3866,0.204,261
+2025-02,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1022072.63,3926,0.289,273
+2025-02,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Footwear,434385.76,3815,0.184,567
+2025-02,Chicago,Midwest,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,136022.93,4482,0.196,240
+2025-02,Chicago,Midwest,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,167787.27,2914,0.199,291
+2025-03,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Handbags,1694390.49,1510,0.304,350
+2025-03,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Small Leather Goods,439891.33,1572,0.226,569
+2025-03,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Costume Jewelry,483851.24,3972,0.192,264
+2025-03,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Other Accessories,338348.68,3685,0.295,264
+2025-03,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Eyewear,152741.91,3624,0.288,545
+2025-03,Chicago,Midwest,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,307325.21,4018,0.299,480
+2025-03,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1009479.2,2954,0.221,531
+2025-03,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Footwear,537019.15,4947,0.321,560
+2025-03,Chicago,Midwest,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,142971.75,3443,0.299,476
+2025-03,Chicago,Midwest,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,204465.62,3224,0.202,312
+2025-04,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Handbags,1909189.12,4184,0.211,207
+2025-04,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Small Leather Goods,460435.85,3496,0.221,539
+2025-04,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Costume Jewelry,466381.88,1345,0.301,521
+2025-04,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Other Accessories,346278.37,3949,0.289,302
+2025-04,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Eyewear,187032.03,1922,0.284,331
+2025-04,Chicago,Midwest,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,358904.11,5186,0.208,485
+2025-04,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1101596.13,4917,0.28,219
+2025-04,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Footwear,395891.93,3798,0.303,159
+2025-04,Chicago,Midwest,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,127725.9,2552,0.283,153
+2025-04,Chicago,Midwest,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,177615.43,2360,0.23,358
+2025-05,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Handbags,2193558.4,5192,0.319,421
+2025-05,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Small Leather Goods,565596.7,2919,0.334,460
+2025-05,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Costume Jewelry,495159.2,4675,0.241,228
+2025-05,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Other Accessories,336077.56,3121,0.317,504
+2025-05,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Eyewear,173266.83,1419,0.331,383
+2025-05,Chicago,Midwest,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,330171.88,4241,0.287,539
+2025-05,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1280313.96,1846,0.215,503
+2025-05,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Footwear,446020.83,2667,0.337,548
+2025-05,Chicago,Midwest,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,141789.84,1458,0.235,189
+2025-05,Chicago,Midwest,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,203417.43,3825,0.314,301
+2025-06,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Handbags,1815824.26,4771,0.263,422
+2025-06,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Small Leather Goods,475477.42,4426,0.313,185
+2025-06,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Costume Jewelry,480510.0,3144,0.189,323
+2025-06,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Other Accessories,358137.67,4386,0.232,433
+2025-06,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Eyewear,179197.01,4493,0.34,328
+2025-06,Chicago,Midwest,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,312980.95,2282,0.317,258
+2025-06,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1255533.65,1578,0.289,386
+2025-06,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Footwear,494444.27,2954,0.217,604
+2025-06,Chicago,Midwest,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,132013.26,1889,0.248,314
+2025-06,Chicago,Midwest,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,222962.45,5010,0.315,197
+2025-07,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Handbags,1978168.48,1517,0.204,497
+2025-07,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Small Leather Goods,468236.45,2404,0.192,165
+2025-07,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Costume Jewelry,428388.65,4744,0.298,318
+2025-07,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Other Accessories,323446.44,2961,0.349,489
+2025-07,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Eyewear,181253.3,2508,0.223,454
+2025-07,Chicago,Midwest,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,334473.9,4886,0.201,524
+2025-07,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1076603.92,2042,0.328,228
+2025-07,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Footwear,379004.58,4751,0.325,260
+2025-07,Chicago,Midwest,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,142654.17,1542,0.188,264
+2025-07,Chicago,Midwest,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,160006.57,2585,0.244,295
+2025-08,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Handbags,1569100.23,2168,0.305,201
+2025-08,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Small Leather Goods,445890.29,2742,0.3,230
+2025-08,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Costume Jewelry,314213.62,2895,0.22,482
+2025-08,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Other Accessories,251707.33,3460,0.306,262
+2025-08,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Eyewear,143860.68,2865,0.235,337
+2025-08,Chicago,Midwest,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,284851.4,1141,0.331,372
+2025-08,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Ready-to-Wear,876978.55,3607,0.334,459
+2025-08,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Footwear,363649.97,3855,0.211,507
+2025-08,Chicago,Midwest,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,102053.6,3940,0.346,225
+2025-08,Chicago,Midwest,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,150101.06,3162,0.323,251
+2025-09,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Handbags,2016483.43,2293,0.324,618
+2025-09,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Small Leather Goods,561971.68,3313,0.209,560
+2025-09,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Costume Jewelry,537996.56,1775,0.255,213
+2025-09,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Other Accessories,365630.35,4827,0.266,326
+2025-09,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Eyewear,185799.96,4028,0.256,257
+2025-09,Chicago,Midwest,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,339302.04,3214,0.291,535
+2025-09,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1026188.95,3935,0.248,378
+2025-09,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Footwear,437914.91,4061,0.325,386
+2025-09,Chicago,Midwest,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,150742.98,1887,0.285,374
+2025-09,Chicago,Midwest,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,201723.2,1832,0.257,333
+2025-10,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Handbags,2374300.65,3868,0.294,170
+2025-10,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Small Leather Goods,549932.15,1567,0.297,609
+2025-10,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Costume Jewelry,470872.76,3195,0.276,388
+2025-10,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Other Accessories,361063.42,5277,0.309,476
+2025-10,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Eyewear,189104.11,5019,0.268,178
+2025-10,Chicago,Midwest,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,397917.69,5567,0.192,685
+2025-10,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1238689.15,4880,0.214,542
+2025-10,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Footwear,534545.97,4294,0.219,508
+2025-10,Chicago,Midwest,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,159410.11,5068,0.199,500
+2025-10,Chicago,Midwest,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,210286.76,2083,0.228,245
+2025-11,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Handbags,2436203.9,5738,0.2,342
+2025-11,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Small Leather Goods,685240.65,2110,0.195,213
+2025-11,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Costume Jewelry,557191.16,1575,0.286,767
+2025-11,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Other Accessories,349968.96,4678,0.318,570
+2025-11,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Eyewear,226708.45,2275,0.242,557
+2025-11,Chicago,Midwest,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,440080.81,1960,0.324,569
+2025-11,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1186614.72,2856,0.295,721
+2025-11,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Footwear,519427.94,5297,0.307,546
+2025-11,Chicago,Midwest,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,210179.87,5407,0.307,549
+2025-11,Chicago,Midwest,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,230935.69,3339,0.253,530
+2025-12,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Handbags,3307477.29,5549,0.215,898
+2025-12,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Small Leather Goods,814673.93,6543,0.323,751
+2025-12,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Costume Jewelry,693166.0,7212,0.311,353
+2025-12,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Other Accessories,522729.7,6854,0.29,401
+2025-12,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Eyewear,220818.76,3257,0.274,238
+2025-12,Chicago,Midwest,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,534717.41,5489,0.194,403
+2025-12,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1603853.06,2462,0.314,224
+2025-12,Chicago,Midwest,Americas,Fashion Boutique,Fashion,Footwear,645619.07,5361,0.268,677
+2025-12,Chicago,Midwest,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,216279.81,2479,0.232,231
+2025-12,Chicago,Midwest,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,308560.08,4779,0.224,451
+2025-01,Dallas,South,Americas,Fashion Boutique,Fashion,Handbags,1748365.77,3682,0.208,224
+2025-01,Dallas,South,Americas,Fashion Boutique,Fashion,Small Leather Goods,463610.63,3769,0.31,442
+2025-01,Dallas,South,Americas,Fashion Boutique,Fashion,Costume Jewelry,401172.21,3993,0.286,468
+2025-01,Dallas,South,Americas,Fashion Boutique,Fashion,Other Accessories,282799.66,1706,0.214,317
+2025-01,Dallas,South,Americas,Fashion Boutique,Fashion,Eyewear,142904.6,1824,0.254,143
+2025-01,Dallas,South,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,305825.85,1475,0.339,321
+2025-01,Dallas,South,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1008894.05,1415,0.305,347
+2025-01,Dallas,South,Americas,Fashion Boutique,Fashion,Footwear,381250.44,4017,0.262,365
+2025-01,Dallas,South,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,118230.4,1116,0.284,467
+2025-01,Dallas,South,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,151377.44,1720,0.322,398
+2025-02,Dallas,South,Americas,Fashion Boutique,Fashion,Handbags,1669458.69,2672,0.278,432
+2025-02,Dallas,South,Americas,Fashion Boutique,Fashion,Small Leather Goods,494234.95,1287,0.322,563
+2025-02,Dallas,South,Americas,Fashion Boutique,Fashion,Costume Jewelry,415447.94,1615,0.256,467
+2025-02,Dallas,South,Americas,Fashion Boutique,Fashion,Other Accessories,282021.37,4533,0.234,477
+2025-02,Dallas,South,Americas,Fashion Boutique,Fashion,Eyewear,147714.27,2145,0.282,400
+2025-02,Dallas,South,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,328057.85,3111,0.257,381
+2025-02,Dallas,South,Americas,Fashion Boutique,Fashion,Ready-to-Wear,955720.26,2477,0.335,138
+2025-02,Dallas,South,Americas,Fashion Boutique,Fashion,Footwear,396791.21,3476,0.275,359
+2025-02,Dallas,South,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,129641.11,3358,0.283,366
+2025-02,Dallas,South,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,199981.04,3979,0.279,303
+2025-03,Dallas,South,Americas,Fashion Boutique,Fashion,Handbags,1888004.94,4887,0.286,316
+2025-03,Dallas,South,Americas,Fashion Boutique,Fashion,Small Leather Goods,517742.73,4004,0.295,387
+2025-03,Dallas,South,Americas,Fashion Boutique,Fashion,Costume Jewelry,420243.96,3798,0.261,153
+2025-03,Dallas,South,Americas,Fashion Boutique,Fashion,Other Accessories,330676.96,2361,0.205,353
+2025-03,Dallas,South,Americas,Fashion Boutique,Fashion,Eyewear,162905.71,3726,0.215,324
+2025-03,Dallas,South,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,307418.18,3842,0.246,442
+2025-03,Dallas,South,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1087366.15,2484,0.295,217
+2025-03,Dallas,South,Americas,Fashion Boutique,Fashion,Footwear,424610.43,4200,0.31,388
+2025-03,Dallas,South,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,140462.66,1363,0.246,437
+2025-03,Dallas,South,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,173019.09,4600,0.328,283
+2025-04,Dallas,South,Americas,Fashion Boutique,Fashion,Handbags,1948834.05,3197,0.247,574
+2025-04,Dallas,South,Americas,Fashion Boutique,Fashion,Small Leather Goods,539230.49,4299,0.219,225
+2025-04,Dallas,South,Americas,Fashion Boutique,Fashion,Costume Jewelry,420816.69,5056,0.248,496
+2025-04,Dallas,South,Americas,Fashion Boutique,Fashion,Other Accessories,304726.15,5029,0.206,198
+2025-04,Dallas,South,Americas,Fashion Boutique,Fashion,Eyewear,182844.41,2035,0.266,535
+2025-04,Dallas,South,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,325242.8,4638,0.346,200
+2025-04,Dallas,South,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1223867.38,3944,0.316,548
+2025-04,Dallas,South,Americas,Fashion Boutique,Fashion,Footwear,429629.58,1677,0.246,569
+2025-04,Dallas,South,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,148901.08,2692,0.251,500
+2025-04,Dallas,South,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,193195.55,4517,0.275,356
+2025-05,Dallas,South,Americas,Fashion Boutique,Fashion,Handbags,2107237.7,3382,0.326,579
+2025-05,Dallas,South,Americas,Fashion Boutique,Fashion,Small Leather Goods,471275.34,1254,0.26,160
+2025-05,Dallas,South,Americas,Fashion Boutique,Fashion,Costume Jewelry,465576.95,1291,0.348,196
+2025-05,Dallas,South,Americas,Fashion Boutique,Fashion,Other Accessories,335362.03,2747,0.3,570
+2025-05,Dallas,South,Americas,Fashion Boutique,Fashion,Eyewear,168459.56,5164,0.288,184
+2025-05,Dallas,South,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,332824.9,2988,0.258,304
+2025-05,Dallas,South,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1087517.78,3572,0.315,454
+2025-05,Dallas,South,Americas,Fashion Boutique,Fashion,Footwear,373326.01,1365,0.19,398
+2025-05,Dallas,South,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,126138.68,1949,0.331,158
+2025-05,Dallas,South,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,205815.16,2685,0.301,397
+2025-06,Dallas,South,Americas,Fashion Boutique,Fashion,Handbags,1920836.74,3302,0.193,321
+2025-06,Dallas,South,Americas,Fashion Boutique,Fashion,Small Leather Goods,388901.45,2591,0.341,520
+2025-06,Dallas,South,Americas,Fashion Boutique,Fashion,Costume Jewelry,419300.85,3522,0.341,540
+2025-06,Dallas,South,Americas,Fashion Boutique,Fashion,Other Accessories,369077.46,1514,0.271,166
+2025-06,Dallas,South,Americas,Fashion Boutique,Fashion,Eyewear,168415.64,4084,0.349,522
+2025-06,Dallas,South,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,358291.15,2887,0.298,295
+2025-06,Dallas,South,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1143761.8,4042,0.238,225
+2025-06,Dallas,South,Americas,Fashion Boutique,Fashion,Footwear,372740.54,3356,0.266,196
+2025-06,Dallas,South,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,136672.38,3103,0.344,176
+2025-06,Dallas,South,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,174935.07,3168,0.277,577
+2025-07,Dallas,South,Americas,Fashion Boutique,Fashion,Handbags,1776693.67,4492,0.258,509
+2025-07,Dallas,South,Americas,Fashion Boutique,Fashion,Small Leather Goods,459319.93,2093,0.322,561
+2025-07,Dallas,South,Americas,Fashion Boutique,Fashion,Costume Jewelry,379133.86,3273,0.209,289
+2025-07,Dallas,South,Americas,Fashion Boutique,Fashion,Other Accessories,339580.54,2744,0.188,239
+2025-07,Dallas,South,Americas,Fashion Boutique,Fashion,Eyewear,142493.4,2426,0.31,477
+2025-07,Dallas,South,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,282463.92,2273,0.249,419
+2025-07,Dallas,South,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1056663.48,1599,0.264,292
+2025-07,Dallas,South,Americas,Fashion Boutique,Fashion,Footwear,426007.71,3574,0.297,446
+2025-07,Dallas,South,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,138793.37,2994,0.339,461
+2025-07,Dallas,South,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,175890.08,4018,0.195,222
+2025-08,Dallas,South,Americas,Fashion Boutique,Fashion,Handbags,1468187.31,4101,0.267,349
+2025-08,Dallas,South,Americas,Fashion Boutique,Fashion,Small Leather Goods,389525.31,1766,0.251,387
+2025-08,Dallas,South,Americas,Fashion Boutique,Fashion,Costume Jewelry,333939.68,3767,0.307,237
+2025-08,Dallas,South,Americas,Fashion Boutique,Fashion,Other Accessories,276240.93,2432,0.22,398
+2025-08,Dallas,South,Americas,Fashion Boutique,Fashion,Eyewear,118791.27,2123,0.203,387
+2025-08,Dallas,South,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,292276.32,1580,0.335,206
+2025-08,Dallas,South,Americas,Fashion Boutique,Fashion,Ready-to-Wear,998037.84,1125,0.18,430
+2025-08,Dallas,South,Americas,Fashion Boutique,Fashion,Footwear,413114.89,3350,0.21,445
+2025-08,Dallas,South,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,117777.99,4165,0.201,138
+2025-08,Dallas,South,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,159654.61,4257,0.274,154
+2025-09,Dallas,South,Americas,Fashion Boutique,Fashion,Handbags,2050045.0,3634,0.287,508
+2025-09,Dallas,South,Americas,Fashion Boutique,Fashion,Small Leather Goods,573023.22,5314,0.317,296
+2025-09,Dallas,South,Americas,Fashion Boutique,Fashion,Costume Jewelry,507361.36,3801,0.327,411
+2025-09,Dallas,South,Americas,Fashion Boutique,Fashion,Other Accessories,363982.33,1345,0.217,173
+2025-09,Dallas,South,Americas,Fashion Boutique,Fashion,Eyewear,165509.61,4124,0.225,497
+2025-09,Dallas,South,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,377884.73,3236,0.234,674
+2025-09,Dallas,South,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1280244.67,3986,0.246,656
+2025-09,Dallas,South,Americas,Fashion Boutique,Fashion,Footwear,512630.76,3284,0.338,347
+2025-09,Dallas,South,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,150979.4,2069,0.259,223
+2025-09,Dallas,South,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,233083.19,2441,0.346,252
+2025-10,Dallas,South,Americas,Fashion Boutique,Fashion,Handbags,2140069.5,5018,0.291,277
+2025-10,Dallas,South,Americas,Fashion Boutique,Fashion,Small Leather Goods,600927.45,1974,0.187,220
+2025-10,Dallas,South,Americas,Fashion Boutique,Fashion,Costume Jewelry,540248.23,1571,0.338,174
+2025-10,Dallas,South,Americas,Fashion Boutique,Fashion,Other Accessories,403296.08,3665,0.191,522
+2025-10,Dallas,South,Americas,Fashion Boutique,Fashion,Eyewear,200159.64,3852,0.226,243
+2025-10,Dallas,South,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,400507.77,4293,0.187,627
+2025-10,Dallas,South,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1274295.33,3742,0.32,368
+2025-10,Dallas,South,Americas,Fashion Boutique,Fashion,Footwear,492092.91,2684,0.329,454
+2025-10,Dallas,South,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,177769.36,2434,0.319,656
+2025-10,Dallas,South,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,201640.72,5030,0.254,437
+2025-11,Dallas,South,Americas,Fashion Boutique,Fashion,Handbags,2476022.55,2075,0.212,284
+2025-11,Dallas,South,Americas,Fashion Boutique,Fashion,Small Leather Goods,595358.44,5324,0.183,684
+2025-11,Dallas,South,Americas,Fashion Boutique,Fashion,Costume Jewelry,571298.34,1917,0.236,270
+2025-11,Dallas,South,Americas,Fashion Boutique,Fashion,Other Accessories,407875.17,4986,0.306,656
+2025-11,Dallas,South,Americas,Fashion Boutique,Fashion,Eyewear,196760.76,5026,0.201,550
+2025-11,Dallas,South,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,444508.44,5730,0.211,403
+2025-11,Dallas,South,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1387856.76,1845,0.285,262
+2025-11,Dallas,South,Americas,Fashion Boutique,Fashion,Footwear,555604.99,4454,0.325,630
+2025-11,Dallas,South,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,184804.88,2376,0.279,785
+2025-11,Dallas,South,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,251668.47,3703,0.336,729
+2025-12,Dallas,South,Americas,Fashion Boutique,Fashion,Handbags,2847500.42,3541,0.296,590
+2025-12,Dallas,South,Americas,Fashion Boutique,Fashion,Small Leather Goods,699523.51,3980,0.256,897
+2025-12,Dallas,South,Americas,Fashion Boutique,Fashion,Costume Jewelry,551407.76,1952,0.292,905
+2025-12,Dallas,South,Americas,Fashion Boutique,Fashion,Other Accessories,487433.67,2094,0.257,444
+2025-12,Dallas,South,Americas,Fashion Boutique,Fashion,Eyewear,240332.45,7197,0.196,834
+2025-12,Dallas,South,Americas,Fashion Boutique,Fragrance & Beauty,Fragrance & Beauty,474988.42,3976,0.198,647
+2025-12,Dallas,South,Americas,Fashion Boutique,Fashion,Ready-to-Wear,1634720.22,7031,0.242,305
+2025-12,Dallas,South,Americas,Fashion Boutique,Fashion,Footwear,690835.81,4029,0.183,616
+2025-12,Dallas,South,Americas,Fashion Boutique,Watches & Fine Jewelry,Watches,197955.39,3260,0.252,281
+2025-12,Dallas,South,Americas,Fashion Boutique,Watches & Fine Jewelry,Fine Jewelry,299365.7,2040,0.259,712
+2025-01,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Handbags,0.0,3960,0.319,472
+2025-01,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Small Leather Goods,0.0,4055,0.197,159
+2025-01,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Costume Jewelry,0.0,1872,0.261,259
+2025-01,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Other Accessories,76347.83,3884,0.234,280
+2025-01,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Eyewear,0.0,2929,0.258,512
+2025-01,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,3183326.01,1109,0.21,220
+2025-01,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Ready-to-Wear,0.0,3724,0.317,536
+2025-01,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Footwear,0.0,4087,0.348,170
+2025-01,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Watches,0.0,3036,0.313,548
+2025-01,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,277954.39,2080,0.334,274
+2025-02,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Handbags,0.0,1196,0.221,433
+2025-02,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Small Leather Goods,0.0,3653,0.284,414
+2025-02,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Costume Jewelry,0.0,2409,0.279,424
+2025-02,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Other Accessories,76786.87,3035,0.326,312
+2025-02,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Eyewear,0.0,1484,0.222,452
+2025-02,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,3657143.87,1633,0.185,173
+2025-02,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Ready-to-Wear,0.0,1881,0.286,222
+2025-02,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Footwear,0.0,1374,0.297,504
+2025-02,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Watches,0.0,3536,0.308,303
+2025-02,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,233755.04,2881,0.226,148
+2025-03,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Handbags,0.0,3819,0.192,312
+2025-03,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Small Leather Goods,0.0,3876,0.189,160
+2025-03,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Costume Jewelry,0.0,4238,0.299,543
+2025-03,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Other Accessories,67625.74,3652,0.334,244
+2025-03,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Eyewear,0.0,2203,0.285,405
+2025-03,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,3159461.64,1894,0.263,277
+2025-03,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Ready-to-Wear,0.0,2770,0.258,242
+2025-03,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Footwear,0.0,1392,0.189,192
+2025-03,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Watches,0.0,2183,0.339,422
+2025-03,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,300466.71,3427,0.253,458
+2025-04,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Handbags,0.0,2164,0.345,241
+2025-04,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Small Leather Goods,0.0,1532,0.267,442
+2025-04,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Costume Jewelry,0.0,2130,0.288,292
+2025-04,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Other Accessories,88471.28,1498,0.242,582
+2025-04,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Eyewear,0.0,5065,0.347,483
+2025-04,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,3939333.93,5185,0.243,236
+2025-04,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Ready-to-Wear,0.0,2763,0.333,276
+2025-04,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Footwear,0.0,2098,0.32,353
+2025-04,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Watches,0.0,5198,0.278,243
+2025-04,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,365141.5,1230,0.265,526
+2025-05,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Handbags,0.0,4948,0.238,338
+2025-05,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Small Leather Goods,0.0,3329,0.201,278
+2025-05,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Costume Jewelry,0.0,2622,0.29,469
+2025-05,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Other Accessories,84038.93,2589,0.268,422
+2025-05,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Eyewear,0.0,1952,0.317,552
+2025-05,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,4085337.08,4564,0.203,600
+2025-05,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Ready-to-Wear,0.0,4254,0.251,529
+2025-05,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Footwear,0.0,2264,0.302,548
+2025-05,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Watches,0.0,4366,0.314,454
+2025-05,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,338503.62,2242,0.202,424
+2025-06,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Handbags,0.0,3721,0.299,300
+2025-06,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Small Leather Goods,0.0,5072,0.318,550
+2025-06,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Costume Jewelry,0.0,3405,0.324,508
+2025-06,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Other Accessories,69327.9,3693,0.324,380
+2025-06,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Eyewear,0.0,2754,0.221,632
+2025-06,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,3856931.1,2120,0.198,351
+2025-06,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Ready-to-Wear,0.0,1421,0.232,229
+2025-06,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Footwear,0.0,3263,0.274,161
+2025-06,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Watches,0.0,2511,0.221,621
+2025-06,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,311011.44,2872,0.301,466
+2025-07,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Handbags,0.0,2184,0.215,352
+2025-07,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Small Leather Goods,0.0,4683,0.24,254
+2025-07,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Costume Jewelry,0.0,4763,0.202,396
+2025-07,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Other Accessories,68959.32,4190,0.337,457
+2025-07,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Eyewear,0.0,2879,0.225,480
+2025-07,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,3147658.82,4747,0.316,606
+2025-07,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Ready-to-Wear,0.0,3431,0.206,530
+2025-07,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Footwear,0.0,4356,0.183,394
+2025-07,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Watches,0.0,4170,0.288,224
+2025-07,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,263930.05,4012,0.267,250
+2025-08,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Handbags,0.0,3443,0.212,364
+2025-08,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Small Leather Goods,0.0,1835,0.203,192
+2025-08,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Costume Jewelry,0.0,2166,0.19,484
+2025-08,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Other Accessories,67564.32,3280,0.189,157
+2025-08,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Eyewear,0.0,2216,0.2,250
+2025-08,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,3544729.45,2163,0.314,426
+2025-08,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Ready-to-Wear,0.0,1594,0.195,198
+2025-08,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Footwear,0.0,3671,0.248,351
+2025-08,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Watches,0.0,2744,0.311,372
+2025-08,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,293156.76,2714,0.243,483
+2025-09,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Handbags,0.0,3248,0.198,641
+2025-09,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Small Leather Goods,0.0,2541,0.274,390
+2025-09,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Costume Jewelry,0.0,2958,0.29,571
+2025-09,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Other Accessories,75226.75,2638,0.273,217
+2025-09,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Eyewear,0.0,2377,0.208,402
+2025-09,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,4272529.27,2411,0.248,680
+2025-09,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Ready-to-Wear,0.0,2357,0.207,266
+2025-09,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Footwear,0.0,1656,0.24,367
+2025-09,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Watches,0.0,3083,0.28,348
+2025-09,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,369101.62,2467,0.321,579
+2025-10,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Handbags,0.0,3325,0.328,584
+2025-10,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Small Leather Goods,0.0,1469,0.204,624
+2025-10,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Costume Jewelry,0.0,2751,0.313,172
+2025-10,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Other Accessories,103112.17,2777,0.245,504
+2025-10,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Eyewear,0.0,3429,0.242,356
+2025-10,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,3602352.44,4378,0.227,652
+2025-10,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Ready-to-Wear,0.0,5549,0.285,297
+2025-10,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Footwear,0.0,3834,0.194,174
+2025-10,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Watches,0.0,2076,0.186,176
+2025-10,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,380937.44,3630,0.221,699
+2025-11,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Handbags,0.0,2414,0.222,588
+2025-11,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Small Leather Goods,0.0,5999,0.227,585
+2025-11,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Costume Jewelry,0.0,1697,0.181,664
+2025-11,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Other Accessories,100122.1,1894,0.341,717
+2025-11,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Eyewear,0.0,5732,0.221,353
+2025-11,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,4108619.7,2370,0.266,518
+2025-11,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Ready-to-Wear,0.0,2740,0.339,630
+2025-11,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Footwear,0.0,3616,0.345,624
+2025-11,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Watches,0.0,4018,0.258,696
+2025-11,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,418299.35,2192,0.195,749
+2025-12,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Handbags,0.0,6402,0.265,552
+2025-12,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Small Leather Goods,0.0,6605,0.296,386
+2025-12,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Costume Jewelry,0.0,5144,0.236,447
+2025-12,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Other Accessories,122165.23,5479,0.188,637
+2025-12,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Eyewear,0.0,5587,0.246,701
+2025-12,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,5046125.98,2438,0.348,817
+2025-12,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Ready-to-Wear,0.0,2000,0.246,701
+2025-12,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Fashion,Footwear,0.0,3278,0.305,771
+2025-12,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Watches,0.0,1891,0.244,657
+2025-12,Fifth Avenue Beauty,New York,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,533537.41,6130,0.301,222
+2025-01,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Handbags,0.0,4461,0.229,507
+2025-01,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Small Leather Goods,0.0,3945,0.239,169
+2025-01,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Costume Jewelry,0.0,1782,0.226,430
+2025-01,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Other Accessories,67371.37,3013,0.31,545
+2025-01,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Eyewear,0.0,1792,0.345,298
+2025-01,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,3136705.57,3036,0.202,373
+2025-01,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Ready-to-Wear,0.0,4040,0.182,361
+2025-01,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Footwear,0.0,2406,0.301,479
+2025-01,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Watches,0.0,3581,0.217,275
+2025-01,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,272891.16,1261,0.313,213
+2025-02,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Handbags,0.0,4041,0.336,154
+2025-02,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Small Leather Goods,0.0,1388,0.313,490
+2025-02,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Costume Jewelry,0.0,4125,0.206,457
+2025-02,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Other Accessories,68293.83,1998,0.212,203
+2025-02,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Eyewear,0.0,4657,0.323,539
+2025-02,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,2960321.07,1594,0.217,226
+2025-02,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Ready-to-Wear,0.0,3213,0.212,235
+2025-02,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Footwear,0.0,3640,0.264,271
+2025-02,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Watches,0.0,1204,0.237,433
+2025-02,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,241568.16,4480,0.309,319
+2025-03,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Handbags,0.0,2622,0.211,471
+2025-03,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Small Leather Goods,0.0,2599,0.238,290
+2025-03,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Costume Jewelry,0.0,3376,0.209,466
+2025-03,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Other Accessories,70329.1,2836,0.337,514
+2025-03,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Eyewear,0.0,2769,0.25,230
+2025-03,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,2866877.37,2946,0.231,372
+2025-03,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Ready-to-Wear,0.0,2106,0.226,586
+2025-03,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Footwear,0.0,1581,0.317,259
+2025-03,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Watches,0.0,2007,0.271,350
+2025-03,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,262472.74,1923,0.186,517
+2025-04,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Handbags,0.0,3298,0.232,507
+2025-04,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Small Leather Goods,0.0,2329,0.31,451
+2025-04,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Costume Jewelry,0.0,1750,0.254,441
+2025-04,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Other Accessories,82568.56,4417,0.341,333
+2025-04,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Eyewear,0.0,3947,0.295,420
+2025-04,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,3283497.19,4594,0.195,352
+2025-04,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Ready-to-Wear,0.0,2785,0.253,548
+2025-04,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Footwear,0.0,1799,0.253,233
+2025-04,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Watches,0.0,4666,0.275,525
+2025-04,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,278763.86,4419,0.315,298
+2025-05,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Handbags,0.0,2584,0.227,441
+2025-05,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Small Leather Goods,0.0,4028,0.329,353
+2025-05,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Costume Jewelry,0.0,4911,0.308,321
+2025-05,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Other Accessories,80764.26,3332,0.316,658
+2025-05,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Eyewear,0.0,5286,0.228,592
+2025-05,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,3556845.79,4533,0.232,540
+2025-05,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Ready-to-Wear,0.0,4803,0.249,266
+2025-05,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Footwear,0.0,4081,0.202,325
+2025-05,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Watches,0.0,1892,0.221,631
+2025-05,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,319750.54,1986,0.314,491
+2025-06,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Handbags,0.0,3891,0.3,610
+2025-06,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Small Leather Goods,0.0,4264,0.325,543
+2025-06,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Costume Jewelry,0.0,2294,0.21,385
+2025-06,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Other Accessories,75092.98,5158,0.336,158
+2025-06,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Eyewear,0.0,4558,0.345,211
+2025-06,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,3162013.97,2889,0.229,234
+2025-06,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Ready-to-Wear,0.0,3351,0.207,250
+2025-06,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Footwear,0.0,2329,0.204,406
+2025-06,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Watches,0.0,4409,0.312,183
+2025-06,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,266975.82,3601,0.25,415
+2025-07,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Handbags,0.0,4722,0.223,161
+2025-07,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Small Leather Goods,0.0,4626,0.287,591
+2025-07,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Costume Jewelry,0.0,3803,0.319,569
+2025-07,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Other Accessories,57724.13,4524,0.189,571
+2025-07,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Eyewear,0.0,4290,0.189,474
+2025-07,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,3007338.32,3862,0.307,367
+2025-07,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Ready-to-Wear,0.0,2189,0.201,141
+2025-07,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Footwear,0.0,3540,0.339,445
+2025-07,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Watches,0.0,4371,0.294,421
+2025-07,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,263029.03,4809,0.325,244
+2025-08,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Handbags,0.0,1927,0.243,168
+2025-08,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Small Leather Goods,0.0,2681,0.302,300
+2025-08,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Costume Jewelry,0.0,1781,0.305,463
+2025-08,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Other Accessories,61838.39,1226,0.261,310
+2025-08,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Eyewear,0.0,2643,0.193,230
+2025-08,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,2493071.82,1674,0.339,446
+2025-08,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Ready-to-Wear,0.0,2612,0.261,138
+2025-08,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Footwear,0.0,3756,0.199,207
+2025-08,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Watches,0.0,1683,0.219,451
+2025-08,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,251148.59,2529,0.251,257
+2025-09,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Handbags,0.0,4127,0.285,205
+2025-09,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Small Leather Goods,0.0,3942,0.285,371
+2025-09,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Costume Jewelry,0.0,5367,0.299,425
+2025-09,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Other Accessories,77921.44,3501,0.341,237
+2025-09,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Eyewear,0.0,4016,0.265,649
+2025-09,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,3617544.99,4634,0.276,577
+2025-09,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Ready-to-Wear,0.0,1304,0.256,159
+2025-09,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Footwear,0.0,3595,0.299,672
+2025-09,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Watches,0.0,3172,0.342,172
+2025-09,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,297140.26,5338,0.292,365
+2025-10,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Handbags,0.0,3744,0.307,684
+2025-10,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Small Leather Goods,0.0,3381,0.213,185
+2025-10,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Costume Jewelry,0.0,2591,0.253,543
+2025-10,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Other Accessories,66424.18,4262,0.316,376
+2025-10,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Eyewear,0.0,5095,0.257,174
+2025-10,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,3771715.24,2123,0.292,668
+2025-10,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Ready-to-Wear,0.0,2976,0.322,576
+2025-10,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Footwear,0.0,3152,0.183,209
+2025-10,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Watches,0.0,3581,0.333,616
+2025-10,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,317130.57,5303,0.306,606
+2025-11,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Handbags,0.0,5991,0.317,616
+2025-11,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Small Leather Goods,0.0,1953,0.349,786
+2025-11,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Costume Jewelry,0.0,1789,0.28,195
+2025-11,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Other Accessories,81004.19,4727,0.313,198
+2025-11,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Eyewear,0.0,3736,0.321,309
+2025-11,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,3943561.07,1815,0.257,784
+2025-11,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Ready-to-Wear,0.0,2921,0.254,451
+2025-11,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Footwear,0.0,3057,0.337,444
+2025-11,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Watches,0.0,4668,0.345,636
+2025-11,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,313464.36,6285,0.277,307
+2025-12,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Handbags,0.0,3696,0.186,548
+2025-12,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Small Leather Goods,0.0,3177,0.186,795
+2025-12,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Costume Jewelry,0.0,4244,0.323,823
+2025-12,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Other Accessories,87985.52,6212,0.235,867
+2025-12,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Eyewear,0.0,6147,0.293,225
+2025-12,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fragrance & Beauty,Fragrance & Beauty,4562673.41,3381,0.216,306
+2025-12,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Ready-to-Wear,0.0,5797,0.236,539
+2025-12,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Fashion,Footwear,0.0,2337,0.311,450
+2025-12,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Watches,0.0,3906,0.192,292
+2025-12,Boston Beauty,Northeast,Americas,Fragrance & Beauty Boutique,Watches & Fine Jewelry,Fine Jewelry,325416.03,2893,0.335,313
