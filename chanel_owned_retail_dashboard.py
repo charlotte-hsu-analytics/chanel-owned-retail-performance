@@ -236,10 +236,23 @@ st.markdown(
 
 st.markdown(
     """
-    <div class="insight-box">
-    This dashboard uses a <b>simulated selected owned retail dataset</b> designed to mirror boutique-level performance reporting, 
-    sales planning, category recap, clienteling insights, and commission/bonus exception monitoring. 
-    The data is for portfolio demonstration only and does not represent Chanel internal data.
+    <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin-top: 16px; margin-bottom: 28px;">
+        <div style="background: #FFFFFF; border: 1px solid #D8CFC6; border-radius: 14px; padding: 18px; box-shadow: 0px 2px 8px rgba(17,17,17,0.06);">
+            <div style="font-size: 13px; color: #5B514A; font-weight: 600;">Dataset</div>
+            <div style="font-size: 22px; color: #111111; font-weight: 700; margin-top: 6px;">Simulated Owned Retail</div>
+        </div>
+        <div style="background: #FFFFFF; border: 1px solid #D8CFC6; border-radius: 14px; padding: 18px; box-shadow: 0px 2px 8px rgba(17,17,17,0.06);">
+            <div style="font-size: 13px; color: #5B514A; font-weight: 600;">Planning Anchor</div>
+            <div style="font-size: 22px; color: #111111; font-weight: 700; margin-top: 6px;">~$6.5M / Boutique / Month</div>
+        </div>
+        <div style="background: #FFFFFF; border: 1px solid #D8CFC6; border-radius: 14px; padding: 18px; box-shadow: 0px 2px 8px rgba(17,17,17,0.06);">
+            <div style="font-size: 13px; color: #5B514A; font-weight: 600;">Tools</div>
+            <div style="font-size: 22px; color: #111111; font-weight: 700; margin-top: 6px;">Python / Streamlit</div>
+        </div>
+        <div style="background: #FFFFFF; border: 1px solid #D8CFC6; border-radius: 14px; padding: 18px; box-shadow: 0px 2px 8px rgba(17,17,17,0.06);">
+            <div style="font-size: 13px; color: #5B514A; font-weight: 600;">Focus</div>
+            <div style="font-size: 22px; color: #111111; font-weight: 700; margin-top: 6px;">Retail Excellence</div>
+        </div>
     </div>
     """,
     unsafe_allow_html=True
